@@ -73,3 +73,15 @@ See [LICENSE.txt](sycl/LICENSE.TXT) for details.
 See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 *\*Other names and brands may be claimed as the property of others.*
+
+# Related Accomplishments
+
+국내 특허 출원 1건 완료
+- 멀티테넌트 GPU 환경에서 메모리 자원을 고려한 선제적 동시-스케줄링
+
+국내 특허 등록 2건 진행중
+- 이종 컴퓨팅 클라우드의 컴퓨팅 유닛 동적 재조립 방법 및 장치
+- 서비스형 함수 환경에서의 함수 실행 방법
+
+해외 특허 등록 1건 진행중
+- Method of rebinding computing unit in heterogeneous computing clouds and apparatus thereof
